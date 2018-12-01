@@ -1,0 +1,7 @@
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\bin\Release\MEPLast_Test.exe.config
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\bin\Release\MEPLast_Test.exe
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\bin\Release\MEPLast_Test.pdb
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\bin\Release\FK_CLI.dll
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\obj\Release\MEPLast_Test.csprojResolveAssemblyReference.cache
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\obj\Release\MEPLast_Test.exe
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\obj\Release\MEPLast_Test.pdb

@@ -1,0 +1,10 @@
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\03\MEPLast_Test\MEPLast_Test\bin\Debug\MEPLast_Test.exe.config
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\bin\Debug\MEPLast_Test.exe.config
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\bin\Debug\MEPLast_Test.exe
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\bin\Debug\MEPLast_Test.pdb
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\bin\Debug\FK_CLI.dll
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\obj\Debug\MEPLast_Test.exe
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\obj\Debug\MEPLast_Test.pdb
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\obj\Debug\MEPLast_Test.csprojAssemblyReference.cache
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\obj\Debug\MEPLast_Test.csproj.CoreCompileInputs.cache
+C:\Users\m0115236ac\Documents\Visual Studio 2015\Projects\MediaExpertProject\lastTest\MEPLast_Test\MEPLast_Test\obj\Debug\MEPLast_Test.csproj.CopyComplete
