@@ -1,0 +1,4 @@
+ハイスコア
+お金
+ATTACK
+ShotNum
